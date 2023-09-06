@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(80, 16, 140);
+}
+
+h1:hover{
+    background-color: #de6b5e;
+}
+
+h2 {
+    background-color: rgb(92, 92, 129);
+    border: 2px solid;
+    margin-top: 50px;    
+}
+
+p {
+    border: 10px;
+    background-color: rgb(183, 228, 213);
+    margin: 10px;
+    text-align: justify;
+}
+h2:hover {
+    background-color: #b2645f;
+
+}
+
+p1 {
+    margin: 20px;
+    text-align: justify
+}
+
+p::first-letter{
+    font-size: 150%;
+    font-weight: bold;
+
+}
+
+body{
+    background-color: rgb(191, 165, 192);
+}
